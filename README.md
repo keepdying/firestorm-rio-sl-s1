@@ -1,14 +1,12 @@
-# !!!No longer maintained, SL version in development!!!.
-
-# Firestorm RIO BfA
+# Firestorm RIO
 
 A raider.io like M+ scoring system for Firestorm Servers.
-https://keepdying.github.io/firestorm-rio-bfa/
+https://keepdying.github.io/firestorm-rio/
 
 ## Frequently Asked Questions
 
 ### How does this work?
-**Every 4 hours**, **runs that can be seen on [Firestorm Ranking PvE](https://firestorm-servers.com/en/challenge/index) page** gets saved into database. If your run doesn't make it to that page, I won't have information about it and **It won't be added**. This is because **I don't have access to any internal data from Firestorm**.
+**Every 4 hours**, **runs that can be seen on [Firestorm Ranking PvE](https://firestorm-servers.com/en/challenge/index/8) page** gets saved into database. If your run doesn't make it to that page, I won't have information about it and **It won't be added**. This is because **I don't have access to any internal data from Firestorm**.
 
 ### How do you score runs?
 
@@ -52,8 +50,6 @@ Exact scoring formula is given below:
 
     return = round(score, 2)
 ```
-
-This should give similar scores like in raider.io BfA Season 4.
 
 ### Some of my runs are missing?
 
