@@ -1,0 +1,37 @@
+[{
+        "abbr": "SD",
+        "id": "2284_380",
+        "name": "Sanguine Depths",
+        "timer": [2460, 1968, 1476]
+    }, {
+        "abbr": "SOA",
+        "id": "2285_381",
+        "name": "Spires of Ascension",
+        "timer": [2340, 1872, 1404]
+    }, {
+        "abbr": "NW",
+        "id": "2286_376",
+        "name": "The Necrotic Wake",
+        "timer": [2160, 1728, 1296]
+    }, {
+        "abbr": "HOA",
+        "id": "2287_378",
+        "name": "Halls of Atonement",
+        "timer": [1860, 1488, 1116]
+    }, {
+        "abbr": "PF",
+        "id": "2289_379",
+        "name": "Plaguefall",
+        "timer": [2280, 1824, 1368]
+    }, {
+        "abbr": "MOTS",
+        "id": "2290_375",
+        "name": "Mists of Tirna Scithe",
+        "timer": [1800, 1440, 1080]
+    }, {
+        "abbr": "DOS",
+        "id": "2291_377",
+        "name": "De Other Side",
+        "timer": [2580, 2065, 1549]
+    }
+]

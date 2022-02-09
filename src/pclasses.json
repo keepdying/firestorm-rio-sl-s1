@@ -1,0 +1,41 @@
+[{
+        "label": "All Classes",
+        "value": "noclass"
+    }, {
+        "label": "Warrior",
+        "value": "warrior"
+    }, {
+		"label": "Paladin",
+        "value": "paladin"
+    }, {
+        "label": "Hunter",
+        "value": "hunter"
+    }, {
+        "label": "Rogue",
+        "value": "rogue"
+    }, {
+        "label": "Priest",
+        "value": "priest"
+    }, {
+        "label": "Death Knight",
+        "value": "deathknight"
+    }, {
+        "label": "Shaman",
+        "value": "shaman"
+    }, {
+        "label": "Mage",
+        "value": "mage"
+    }, {
+        "label": "Warlock",
+        "value": "warlock"
+    }, {
+        "label": "Monk",
+        "value": "monk"
+    }, {
+        "label": "Druid",
+        "value": "druid"
+    }, {
+        "label": "Demon Hunter",
+        "value": "demonhunter"
+    }
+]
