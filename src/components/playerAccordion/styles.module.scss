@@ -1,0 +1,137 @@
+$text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;
+
+.accordionItem {
+    align-items: center;
+    color: #ffffff;
+    cursor: pointer;
+    &:nth-child(even){
+        background-color: #353535;
+    }
+    &:nth-child(odd){
+        background-color: #2b2b2b;
+    }
+    .accordionTitle {
+        font-size: medium;
+        align-items: flex-start;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 15px;
+        div {
+            flex: 1 33%;
+            font-weight: bold;
+            text-align: center;
+        }
+    }
+}
+.accordionContent {
+    background: #000000;
+    margin: auto;
+    display: flex !important;
+    flex-direction: column;
+    padding: 0px !important;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    max-height: 95vh;
+    overflow-y: auto;
+    .runHeader {
+        background-color: #1a1716;
+        color: #ffffff;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 0px 8px;
+        .mainHeader{
+            text-align: left;
+            display: unset;
+        }
+        strong {
+            padding: 8px 0px;
+            cursor: pointer;
+            width: 10%;
+            font-size: 14px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            &.activeSort{
+                border-bottom: 3px solid #ffffff;
+            }
+            img{
+                width: 24px;
+                height: 24px;
+            }
+        }
+        .group {
+            width: calc(50% - 30px);
+            margin-left: 30px;
+            text-align: left;
+            display: unset;
+        }
+    }
+}
+ 
+
+.color_noclass {
+    color:#d3d3d3;
+    text-shadow: $text-shadow;
+}
+
+.color_warrior {
+    color:#c69b6d;
+    text-shadow: $text-shadow;
+}
+
+.color_paladin {
+    color:#f48cba;
+    text-shadow: $text-shadow;
+}
+
+.color_hunter {
+    color:#aad372;
+    text-shadow: $text-shadow;
+}
+
+.color_rogue {
+    color:#fff468;
+    text-shadow: $text-shadow;
+}
+
+.color_priest {
+    color:#ffffff;
+    text-shadow: $text-shadow;
+}
+
+.color_deathknight {
+    color:#c41e3b;
+    text-shadow: $text-shadow;
+}
+
+.color_shaman {
+    color:#2359ff;
+    text-shadow: $text-shadow;
+}
+
+.color_mage {
+    color:#68ccef;
+    text-shadow: $text-shadow;
+}
+
+.color_warlock {
+    color:#9382c9;
+    text-shadow: $text-shadow;
+}
+
+.color_monk {
+    color:#008467;
+    text-shadow: $text-shadow;
+}
+
+.color_druid {
+    color:#ff7c0a;
+    text-shadow: $text-shadow;
+}
+
+.color_demonhunter {
+    color:#a330c9;
+    text-shadow: $text-shadow;
+}

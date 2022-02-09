@@ -1,0 +1,39 @@
+.App {
+  background-image: url("https://images2.alphacoders.com/104/thumb-1920-1049851.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+header {
+  height: 200px;
+  color: #ffffff;
+  background: rgba(0, 0, 0, 0.7);
+}
+.headerContent{
+  height: 100%;
+  display: flex !important;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  font-weight: bold;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+a{
+  color: #ff8000;
+}
+a:visited {
+  color: #e6cc80;
+}
+
+h1 {
+ margin-top: 0px;
+}
+
+p {
+  margin-bottom: 1px;
+  margin-top: 1px;
+}
+
+

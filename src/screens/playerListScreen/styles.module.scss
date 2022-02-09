@@ -1,0 +1,65 @@
+.playerListScreen {
+    input {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        height: 20px;
+        padding-left: 6px;
+    }
+    p {
+        margin-bottom: 0px;
+    }
+    .playerList {
+        border: 1px solid #000000;
+        .listHeaders{
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            border-bottom: 1px solid #000000;
+            padding: 15px;
+            background-color: #000000;
+            position: sticky;
+            top: 0px;
+            .listHeader{
+                flex: 1 33%;
+                text-align: center;
+                font-weight: bold;
+                color: #ffffff;
+            }
+        }
+    }
+
+    .topBars {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        .psearchBar{
+            flex: 1 50%;
+        }
+
+        .pclassSelector {
+            flex: 2 50%;
+            padding-left: 6px;
+        }
+
+    }
+
+
+    .pagination{
+        display: flex;
+        align-items: center;
+        color: #ffffff;
+        width: 100%;
+        list-style-type: none;
+        justify-content: center;
+        padding-inline-start: 0px;
+        margin-block-end: 0px;
+        .page {
+            padding: 5px 10px;
+            font-weight: bold;
+            cursor: pointer;
+            &.active{
+                background: #000000;
+            }
+        }
+    }
+}
