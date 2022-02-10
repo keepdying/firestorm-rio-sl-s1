@@ -17177,5 +17177,250 @@
             122,
             4
         ]
+    },
+    {
+        "rid": "3801416444912789205017",
+        "pids": [
+            "9205017",
+            "7572036",
+            "5408954",
+            "7884132",
+            "8716972"
+        ],
+        "pnames": [
+            "Anamnesiss",
+            "Opilus",
+            "Dárkprince",
+            "Фаламелька",
+            "Leukemia"
+        ],
+        "dung": "2284_380",
+        "lvl": 14,
+        "time": 1721,
+        "score": 121.5,
+        "timestamp": 1644491278,
+        "pclasses": [
+            "demonhunter",
+            "shaman",
+            "rogue",
+            "warlock",
+            "deathknight"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3801316444923742292054",
+        "pids": [
+            "2292054",
+            "7939099",
+            "6852146",
+            "8482189",
+            "8843986"
+        ],
+        "pnames": [
+            "Ratnikk",
+            "Rawpaly",
+            "Kuriná",
+            "Márkis",
+            "Radrael"
+        ],
+        "dung": "2284_380",
+        "lvl": 13,
+        "time": 2136,
+        "score": 115.66,
+        "timestamp": 1644492374,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "monk",
+            "warrior",
+            "deathknight"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3761416444921419247165",
+        "pids": [
+            "9247165",
+            "104290",
+            "4854435",
+            "8934793",
+            "9145069"
+        ],
+        "pnames": [
+            "Wingood",
+            "Xenophics",
+            "Indimag",
+            "Awfulpláyer",
+            "Fragmä"
+        ],
+        "dung": "2286_376",
+        "lvl": 14,
+        "time": 2541,
+        "score": 111.48,
+        "timestamp": 1644492141,
+        "pclasses": [
+            "demonhunter",
+            "druid",
+            "mage",
+            "paladin",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3791616444941359205017",
+        "pids": [
+            "9205017",
+            "7572036",
+            "6322726",
+            "7884132",
+            "8716972"
+        ],
+        "pnames": [
+            "Anamnesiss",
+            "Opilus",
+            "Sokostealth",
+            "Фаламелька",
+            "Leukemia"
+        ],
+        "dung": "2289_379",
+        "lvl": 16,
+        "time": 1954,
+        "score": 130.71,
+        "timestamp": 1644494135,
+        "pclasses": [
+            "demonhunter",
+            "shaman",
+            "rogue",
+            "warlock",
+            "deathknight"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3791616444936217010706",
+        "pids": [
+            "7010706",
+            "6088735",
+            "6709909",
+            "8084459",
+            "9344182"
+        ],
+        "pnames": [
+            "Акселеерод",
+            "Hanamiyökai",
+            "Mickokim",
+            "Ghétto",
+            "Emmaha"
+        ],
+        "dung": "2289_379",
+        "lvl": 16,
+        "time": 2525,
+        "score": 122.86,
+        "timestamp": 1644493621,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "warrior",
+            "deathknight",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3821616444909138878763",
+        "pids": [
+            "8878763",
+            "8436011",
+            "7656668",
+            "7756318",
+            "7806777"
+        ],
+        "pnames": [
+            "Проходвноги",
+            "Neresh",
+            "Minikotik",
+            "Илиад",
+            "Bublman"
+        ],
+        "dung": "2293_382",
+        "lvl": 16,
+        "time": 3355,
+        "score": 115.58,
+        "timestamp": 1644490913,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "hunter",
+            "monk",
+            "paladin"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3821516444915567381397",
+        "pids": [
+            "7381397",
+            "1205750",
+            "7417652",
+            "8800537",
+            "9056630"
+        ],
+        "pnames": [
+            "Backhander",
+            "Creole",
+            "Havocus",
+            "Xercy",
+            "Sleeplez"
+        ],
+        "dung": "2293_382",
+        "lvl": 15,
+        "time": 1981,
+        "score": 125.66,
+        "timestamp": 1644491556,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "demonhunter",
+            "deathknight",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
     }
 ]
