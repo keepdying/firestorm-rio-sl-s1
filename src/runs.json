@@ -14937,5 +14937,145 @@
             122,
             4
         ]
+    },
+    {
+        "rid": "3761416444579059112001",
+        "pids": [
+            "9112001",
+            "9111189",
+            "8553870",
+            "9110808",
+            "9111733"
+        ],
+        "pnames": [
+            "Djinouu",
+            "Kitonya",
+            "Bramanero",
+            "Muddà",
+            "Exyzxz"
+        ],
+        "dung": "2286_376",
+        "lvl": 14,
+        "time": 1971,
+        "score": 120.44,
+        "timestamp": 1644457905,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "warrior",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3791616444569701450392",
+        "pids": [
+            "1450392",
+            "6984521",
+            "698369",
+            "7684427",
+            "8210523"
+        ],
+        "pnames": [
+            "Sttyxx",
+            "Durothrâll",
+            "Thetoxycrat",
+            "Beckmann",
+            "Lanceruin"
+        ],
+        "dung": "2289_379",
+        "lvl": 16,
+        "time": 2566,
+        "score": 122.5,
+        "timestamp": 1644456970,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "mage",
+            "hunter",
+            "druid"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3751916444554363432565",
+        "pids": [
+            "3432565",
+            "9177443",
+            "1586978",
+            "4621384",
+            "4895204"
+        ],
+        "pnames": [
+            "Skâar",
+            "Amazap",
+            "Mistríon",
+            "Gozugamër",
+            "Karavlaxos"
+        ],
+        "dung": "2290_375",
+        "lvl": 19,
+        "time": 1807,
+        "score": 139.93,
+        "timestamp": 1644455436,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "warrior",
+            "mage",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3771516444605146263424",
+        "pids": [
+            "6263424",
+            "9215015",
+            "7330052",
+            "8685005",
+            "9173499"
+        ],
+        "pnames": [
+            "Koheldh",
+            "Éastwick",
+            "Duradepelar",
+            "Gingibro",
+            "Parriboom"
+        ],
+        "dung": "2291_377",
+        "lvl": 15,
+        "time": 2457,
+        "score": 125.24,
+        "timestamp": 1644460514,
+        "pclasses": [
+            "demonhunter",
+            "shaman",
+            "monk",
+            "druid",
+            "deathknight"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
     }
 ]
