@@ -33,5 +33,11 @@
         "id": "2291_377",
         "name": "De Other Side",
         "timer": [2580, 2065, 1549]
-    }
+    },
+		{
+		"abbr": "TOP",
+		"id": "2293_382",
+		"name": "Theater of Pain",
+		"timer": [2200, 1776, 1332]
+	}
 ]
