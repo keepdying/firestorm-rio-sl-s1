@@ -13,6 +13,7 @@ const getDungeonImage = (dungeon) => {
     case "Plaguefall": return "https://firestorm-servers.com/assets/img/dungeons/dungeon_2289_379.png"
     case "Mists of Tirna Scithe": return "https://firestorm-servers.com/assets/img/dungeons/dungeon_2290_375.png"
     case "De Other Side": return "https://firestorm-servers.com/assets/img/dungeons/dungeon_2291_377.png"
+    case "Theater of Pain": return "https://firestorm-servers.com/assets/img/dungeons/dungeon_2293_382.png"
     default: return null;
   }
 }
