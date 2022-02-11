@@ -21024,5 +21024,215 @@
             122,
             4
         ]
+    },
+    {
+        "rid": "3801416445638449061431",
+        "pids": [
+            "9061431",
+            "7817688",
+            "4321825",
+            "6276834",
+            "6315734"
+        ],
+        "pnames": [
+            "Mtadorx",
+            "Simplethink",
+            "Hydroofire",
+            "Agressiff",
+            "Бладинайт"
+        ],
+        "dung": "2284_380",
+        "lvl": 14,
+        "time": 1679,
+        "score": 121.59,
+        "timestamp": 1644563844,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "mage",
+            "rogue",
+            "deathknight"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "378151644557243134374",
+        "pids": [
+            "134374",
+            "2040999",
+            "3657027",
+            "6236091",
+            "8597471"
+        ],
+        "pnames": [
+            "Túlkäs",
+            "Sætæ",
+            "Camusl",
+            "Stormrogue",
+            "Zakmlakk"
+        ],
+        "dung": "2287_378",
+        "lvl": 15,
+        "time": 1746,
+        "score": 125.31,
+        "timestamp": 1644557243,
+        "pclasses": [
+            "warrior",
+            "shaman",
+            "mage",
+            "rogue",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3791616445616101450392",
+        "pids": [
+            "1450392",
+            "7527919",
+            "698369",
+            "7684427",
+            "8210523"
+        ],
+        "pnames": [
+            "Sttyxx",
+            "Shampooh",
+            "Thetoxycrat",
+            "Beckmann",
+            "Lanceruin"
+        ],
+        "dung": "2289_379",
+        "lvl": 16,
+        "time": 2211,
+        "score": 130.15,
+        "timestamp": 1644561610,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "mage",
+            "hunter",
+            "druid"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3791516445603037446839",
+        "pids": [
+            "7446839",
+            "2040999",
+            "3657027",
+            "4685198",
+            "6236091"
+        ],
+        "pnames": [
+            "Everytìme",
+            "Sætæ",
+            "Camusl",
+            "Zhênt",
+            "Stormrogue"
+        ],
+        "dung": "2289_379",
+        "lvl": 15,
+        "time": 2249,
+        "score": 125.07,
+        "timestamp": 1644560303,
+        "pclasses": [
+            "warrior",
+            "shaman",
+            "mage",
+            "monk",
+            "rogue"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3751716445560973432565",
+        "pids": [
+            "3432565",
+            "9177443",
+            "4287247",
+            "4621384",
+            "7340585"
+        ],
+        "pnames": [
+            "Skâar",
+            "Amazap",
+            "Trollsinow",
+            "Gozugamër",
+            "Purawonka"
+        ],
+        "dung": "2290_375",
+        "lvl": 17,
+        "time": 1928,
+        "score": 128.59,
+        "timestamp": 1644556097,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "druid",
+            "mage",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3821516445567586531560",
+        "pids": [
+            "6531560",
+            "2995631",
+            "1481923",
+            "6409714",
+            "6505342"
+        ],
+        "pnames": [
+            "Tanuke",
+            "Tásjön",
+            "Diablaso",
+            "Baborak",
+            "Mordragux"
+        ],
+        "dung": "2293_382",
+        "lvl": 15,
+        "time": 1963,
+        "score": 125.7,
+        "timestamp": 1644556758,
+        "pclasses": [
+            "demonhunter",
+            "monk",
+            "deathknight",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
     }
 ]
