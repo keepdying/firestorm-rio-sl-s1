@@ -20814,5 +20814,215 @@
             122,
             4
         ]
+    },
+    {
+        "rid": "3801516445410854295573",
+        "pids": [
+            "4295573",
+            "71962",
+            "2995631",
+            "3183258",
+            "5416461"
+        ],
+        "pnames": [
+            "Kelpollo",
+            "Vigor",
+            "Tásjön",
+            "Kenso",
+            "Tyranito"
+        ],
+        "dung": "2284_380",
+        "lvl": 15,
+        "time": 2871,
+        "score": 116.67,
+        "timestamp": 1644541085,
+        "pclasses": [
+            "druid",
+            "druid",
+            "monk",
+            "hunter",
+            "shaman"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3761816445457333432565",
+        "pids": [
+            "3432565",
+            "9177443",
+            "1586978",
+            "7340585",
+            "9110808"
+        ],
+        "pnames": [
+            "Skâar",
+            "Amazap",
+            "Mistríon",
+            "Purawonka",
+            "Muddà"
+        ],
+        "dung": "2286_376",
+        "lvl": 18,
+        "time": 2201,
+        "score": 134.63,
+        "timestamp": 1644545733,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "warrior",
+            "monk",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3781916445422909111442",
+        "pids": [
+            "9111442",
+            "1477839",
+            "3742470",
+            "9033208",
+            "9336514"
+        ],
+        "pnames": [
+            "Nyndraa",
+            "Hydromatics",
+            "Pionneer",
+            "Barattolo",
+            "Flazefister"
+        ],
+        "dung": "2287_378",
+        "lvl": 19,
+        "time": 1516,
+        "score": 145.92,
+        "timestamp": 1644542290,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "hunter",
+            "monk",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3781816445416063432565",
+        "pids": [
+            "3432565",
+            "9177443",
+            "1586978",
+            "7340585",
+            "9110808"
+        ],
+        "pnames": [
+            "Skâar",
+            "Amazap",
+            "Mistríon",
+            "Purawonka",
+            "Muddà"
+        ],
+        "dung": "2287_378",
+        "lvl": 18,
+        "time": 1805,
+        "score": 140.15,
+        "timestamp": 1644541606,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "warrior",
+            "monk",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3751516445511066531560",
+        "pids": [
+            "6531560",
+            "2995631",
+            "1481923",
+            "6409714",
+            "6505342"
+        ],
+        "pnames": [
+            "Tanuke",
+            "Tásjön",
+            "Diablaso",
+            "Baborak",
+            "Mordragux"
+        ],
+        "dung": "2290_375",
+        "lvl": 15,
+        "time": 1522,
+        "score": 125.77,
+        "timestamp": 1644551106,
+        "pclasses": [
+            "demonhunter",
+            "monk",
+            "deathknight",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3751516445478819112001",
+        "pids": [
+            "9112001",
+            "9111189",
+            "8971016",
+            "9110808",
+            "9111733"
+        ],
+        "pnames": [
+            "Djinouu",
+            "Kitonya",
+            "Nerftotem",
+            "Muddà",
+            "Exyzxz"
+        ],
+        "dung": "2290_375",
+        "lvl": 15,
+        "time": 1576,
+        "score": 125.62,
+        "timestamp": 1644547881,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "shaman",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
     }
 ]
