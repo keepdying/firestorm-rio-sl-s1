@@ -21234,5 +21234,285 @@
             122,
             4
         ]
+    },
+    {
+        "rid": "3801416445712702014482",
+        "pids": [
+            "2014482",
+            "6963755",
+            "4957390",
+            "7480905",
+            "8688567"
+        ],
+        "pnames": [
+            "Childwind",
+            "Analgesique",
+            "Sixyznineris",
+            "Renoxxd",
+            "Hurãcãnbãby"
+        ],
+        "dung": "2284_380",
+        "lvl": 14,
+        "time": 1767,
+        "score": 121.41,
+        "timestamp": 1644571270,
+        "pclasses": [
+            "druid",
+            "priest",
+            "demonhunter",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3801416445708598087053",
+        "pids": [
+            "8087053",
+            "594312",
+            "576318",
+            "582543",
+            "2026940"
+        ],
+        "pnames": [
+            "Felgodxx",
+            "Electrabuzz",
+            "Zôôro",
+            "Rámboi",
+            "Valeriöus"
+        ],
+        "dung": "2284_380",
+        "lvl": 14,
+        "time": 2295,
+        "score": 120.34,
+        "timestamp": 1644570859,
+        "pclasses": [
+            "demonhunter",
+            "shaman",
+            "paladin",
+            "warrior",
+            "druid"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3781816445774416246227",
+        "pids": [
+            "6246227",
+            "8950087",
+            "4949037",
+            "7217451",
+            "9174803"
+        ],
+        "pnames": [
+            "Mexanikz",
+            "Silies",
+            "Мерлот",
+            "Бошечка",
+            "Kurtizanka"
+        ],
+        "dung": "2287_378",
+        "lvl": 18,
+        "time": 4006,
+        "score": 118.47,
+        "timestamp": 1644577441,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warlock",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3781716445778475724849",
+        "pids": [
+            "5724849",
+            "6088735",
+            "66238",
+            "6412681",
+            "9113357"
+        ],
+        "pnames": [
+            "Bodlja",
+            "Hanamiyökai",
+            "Mälphås",
+            "Bulkyaf",
+            "Youcry"
+        ],
+        "dung": "2287_378",
+        "lvl": 17,
+        "time": 1912,
+        "score": 129.45,
+        "timestamp": 1644577847,
+        "pclasses": [
+            "deathknight",
+            "shaman",
+            "deathknight",
+            "warrior",
+            "rogue"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3791716445720326246227",
+        "pids": [
+            "6246227",
+            "8950087",
+            "4949037",
+            "7217451",
+            "9174803"
+        ],
+        "pnames": [
+            "Mexanikz",
+            "Silies",
+            "Мерлот",
+            "Бошечка",
+            "Kurtizanka"
+        ],
+        "dung": "2289_379",
+        "lvl": 17,
+        "time": 2194,
+        "score": 135.19,
+        "timestamp": 1644572032,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warlock",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3791716445807486246227",
+        "pids": [
+            "6246227",
+            "8950087",
+            "4949037",
+            "7217451",
+            "9174803"
+        ],
+        "pnames": [
+            "Mexanikz",
+            "Silies",
+            "Мерлот",
+            "Бошечка",
+            "Kurtizanka"
+        ],
+        "dung": "2289_379",
+        "lvl": 17,
+        "time": 2229,
+        "score": 135.11,
+        "timestamp": 1644580748,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warlock",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3791616445798124375530",
+        "pids": [
+            "4375530",
+            "7417705",
+            "2026940",
+            "6276834",
+            "7480905"
+        ],
+        "pnames": [
+            "Getklouzed",
+            "Zaicka",
+            "Valeriöus",
+            "Agressiff",
+            "Renoxxd"
+        ],
+        "dung": "2289_379",
+        "lvl": 16,
+        "time": 2732,
+        "score": 121.05,
+        "timestamp": 1644579812,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "druid",
+            "rogue",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3751616445688776246227",
+        "pids": [
+            "6246227",
+            "8950087",
+            "7217451",
+            "9174803",
+            "9187502"
+        ],
+        "pnames": [
+            "Mexanikz",
+            "Silies",
+            "Бошечка",
+            "Kurtizanka",
+            "Magedup"
+        ],
+        "dung": "2290_375",
+        "lvl": 16,
+        "time": 1566,
+        "score": 130.65,
+        "timestamp": 1644568877,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
     }
 ]
