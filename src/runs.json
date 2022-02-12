@@ -23614,5 +23614,215 @@
             122,
             4
         ]
+    },
+    {
+        "rid": "3801816446313759111091",
+        "pids": [
+            "9111091",
+            "9070417",
+            "447916",
+            "5118546",
+            "7688119"
+        ],
+        "pnames": [
+            "Alfarl",
+            "Kaserry",
+            "Celarias",
+            "Lògân",
+            "Koedda"
+        ],
+        "dung": "2284_380",
+        "lvl": 18,
+        "time": 2191,
+        "score": 140.55,
+        "timestamp": 1644631375,
+        "pclasses": [
+            "demonhunter",
+            "shaman",
+            "hunter",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3801416446376843433498",
+        "pids": [
+            "3433498",
+            "1698838",
+            "1754251",
+            "3798979",
+            "4685198"
+        ],
+        "pnames": [
+            "Holyzerg",
+            "Pandihard",
+            "Dsacë",
+            "Orîannä",
+            "Zhênt"
+        ],
+        "dung": "2284_380",
+        "lvl": 14,
+        "time": 2350,
+        "score": 120.22,
+        "timestamp": 1644637684,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "deathknight",
+            "hunter",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3761716446286709111091",
+        "pids": [
+            "9111091",
+            "9070417",
+            "447916",
+            "5118546",
+            "7688119"
+        ],
+        "pnames": [
+            "Alfarl",
+            "Kaserry",
+            "Celarias",
+            "Lògân",
+            "Koedda"
+        ],
+        "dung": "2286_376",
+        "lvl": 17,
+        "time": 1822,
+        "score": 135.78,
+        "timestamp": 1644628670,
+        "pclasses": [
+            "demonhunter",
+            "shaman",
+            "hunter",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3761516446297276531560",
+        "pids": [
+            "6531560",
+            "2995631",
+            "1481923",
+            "6409714",
+            "7155263"
+        ],
+        "pnames": [
+            "Tanuke",
+            "Tásjön",
+            "Diablaso",
+            "Baborak",
+            "Hòwl"
+        ],
+        "dung": "2286_376",
+        "lvl": 15,
+        "time": 1542,
+        "score": 126.43,
+        "timestamp": 1644629727,
+        "pclasses": [
+            "demonhunter",
+            "monk",
+            "deathknight",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3791716446278982014482",
+        "pids": [
+            "2014482",
+            "5531215",
+            "4355706",
+            "9044566",
+            "9163622"
+        ],
+        "pnames": [
+            "Childwind",
+            "Enmanuellee",
+            "Digiteuh",
+            "Theysseemmeê",
+            "Shâdöw"
+        ],
+        "dung": "2289_379",
+        "lvl": 17,
+        "time": 1857,
+        "score": 135.93,
+        "timestamp": 1644627898,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "shaman",
+            "monk",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3751916446278339268095",
+        "pids": [
+            "9268095",
+            "1477839",
+            "3742470",
+            "9296363",
+            "9336514"
+        ],
+        "pnames": [
+            "Dededh",
+            "Hydromatics",
+            "Pionneer",
+            "Avalancher",
+            "Flazefister"
+        ],
+        "dung": "2290_375",
+        "lvl": 19,
+        "time": 1508,
+        "score": 145.81,
+        "timestamp": 1644627833,
+        "pclasses": [
+            "demonhunter",
+            "shaman",
+            "hunter",
+            "mage",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
     }
 ]
