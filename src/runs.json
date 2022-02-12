@@ -23824,5 +23824,75 @@
             122,
             4
         ]
+    },
+    {
+        "rid": "3791616446419417518626",
+        "pids": [
+            "7518626",
+            "7158509",
+            "8034879",
+            "8480480",
+            "9117238"
+        ],
+        "pnames": [
+            "Prinzes",
+            "Druiidboo",
+            "Bramh",
+            "Rincember",
+            "Vláddemon"
+        ],
+        "dung": "2289_379",
+        "lvl": 16,
+        "time": 4116,
+        "score": 111.96,
+        "timestamp": 1644641941,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "hunter",
+            "mage",
+            "priest"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3771516446457537446839",
+        "pids": [
+            "7446839",
+            "7496524",
+            "6984619",
+            "7783073",
+            "9150911"
+        ],
+        "pnames": [
+            "Everytìme",
+            "Strinz",
+            "Samá",
+            "Vroer",
+            "Xeish"
+        ],
+        "dung": "2291_377",
+        "lvl": 15,
+        "time": 2298,
+        "score": 125.55,
+        "timestamp": 1644645753,
+        "pclasses": [
+            "warrior",
+            "shaman",
+            "hunter",
+            "rogue",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
     }
 ]
