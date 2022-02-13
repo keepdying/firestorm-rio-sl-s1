@@ -21,7 +21,7 @@ function App() {
               <p>Total Players: {players_json.length}, Total Runs: {currentRuns.length}</p>
               <p> F.A.Q: <a href="https://github.com/keepdying/firestorm-rio">https://github.com/keepdying/firestorm-rio</a></p>
               <p> By using Firestorm RIO, You agree that you read <a href="https://github.com/keepdying/firestorm-rio#how-does-this-work">"How does this work?"</a>.</p>
-              <a href="https://discord.gg/4rAtnTwCjh">Join the discord community!</a>
+              <p> Discord Communities: <a href="https://discord.gg/GnZmf6cUNF">Firestorm M+ Gamers (new!)</a>, <a href="https://discord.gg/4rAtnTwCjh">Community Firestorm Mythic+</a></p>
             </Container>
           </header>
         <PlayerListScreen />
