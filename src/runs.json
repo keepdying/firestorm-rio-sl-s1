@@ -26414,5 +26414,75 @@
             122,
             4
         ]
+    },
+    {
+        "rid": "3781616447390122014482",
+        "pids": [
+            "2014482",
+            "6088735",
+            "5065310",
+            "7787396",
+            "9044566"
+        ],
+        "pnames": [
+            "Childwind",
+            "Hanamiyökai",
+            "Vâns",
+            "Chikitocm",
+            "Theysseemmeê"
+        ],
+        "dung": "2287_378",
+        "lvl": 16,
+        "time": 1469,
+        "score": 131.05,
+        "timestamp": 1644739012,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "rogue",
+            "mage",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3781616447342206806050",
+        "pids": [
+            "6806050",
+            "9043885",
+            "7787396",
+            "8680771",
+            "8961986"
+        ],
+        "pnames": [
+            "Черепаха",
+            "Леоне",
+            "Chikitocm",
+            "Fixfx",
+            "Игорбрито"
+        ],
+        "dung": "2287_378",
+        "lvl": 16,
+        "time": 2064,
+        "score": 122.82,
+        "timestamp": 1644734220,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "mage",
+            "deathknight",
+            "warlock"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
     }
 ]
