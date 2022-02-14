@@ -29071,5 +29071,145 @@
             122,
             4
         ]
+    },
+    {
+        "rid": "3801516448061454862082",
+        "pids": [
+            "4862082",
+            "7281942",
+            "4296807",
+            "7217451",
+            "7968911"
+        ],
+        "pnames": [
+            "Hrîst",
+            "Popcdsonme",
+            "Fresol",
+            "Бошечка",
+            "Mekkant"
+        ],
+        "dung": "2284_380",
+        "lvl": 15,
+        "time": 2286,
+        "score": 125.35,
+        "timestamp": 1644806145,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "rogue",
+            "hunter",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3761616448053116095206",
+        "pids": [
+            "6095206",
+            "474821",
+            "363472",
+            "646129",
+            "6575768"
+        ],
+        "pnames": [
+            "Wasuri",
+            "Dejanm",
+            "Eonnar",
+            "Iogërx",
+            "Cepheys"
+        ],
+        "dung": "2286_376",
+        "lvl": 16,
+        "time": 2712,
+        "score": 119.9,
+        "timestamp": 1644805311,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "mage",
+            "rogue",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3761616448026604862082",
+        "pids": [
+            "4862082",
+            "8884839",
+            "3469135",
+            "7684427",
+            "9120396"
+        ],
+        "pnames": [
+            "Hrîst",
+            "Monlusy",
+            "Jezbelol",
+            "Beckmann",
+            "Anootherbr"
+        ],
+        "dung": "2286_376",
+        "lvl": 16,
+        "time": 2749,
+        "score": 119.56,
+        "timestamp": 1644802660,
+        "pclasses": [
+            "druid",
+            "monk",
+            "priest",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
+    },
+    {
+        "rid": "3791616448088394862082",
+        "pids": [
+            "4862082",
+            "7281942",
+            "4296807",
+            "6643141",
+            "7968911"
+        ],
+        "pnames": [
+            "Hrîst",
+            "Popcdsonme",
+            "Fresol",
+            "Cowofduty",
+            "Mekkant"
+        ],
+        "dung": "2289_379",
+        "lvl": 16,
+        "time": 2104,
+        "score": 130.39,
+        "timestamp": 1644808839,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "rogue",
+            "hunter",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            122,
+            4
+        ]
     }
 ]
