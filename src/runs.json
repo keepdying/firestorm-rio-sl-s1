@@ -66411,5 +66411,40 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "3801616450758195163019",
+        "pids": [
+            "5163019",
+            "306391",
+            "4359134",
+            "4563462",
+            "7985812"
+        ],
+        "pnames": [
+            "Mondraggon",
+            "Masoscrivere",
+            "Vankiria",
+            "Nyzel",
+            "Naomhi"
+        ],
+        "dung": "2284_380",
+        "lvl": 16,
+        "time": 2830,
+        "score": 122.0,
+        "timestamp": 1645075819,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "mage",
+            "warrior",
+            "druid"
+        ],
+        "affixes": [
+            121,
+            10,
+            8,
+            14
+        ]
     }
 ]
