@@ -75686,5 +75686,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "3761616452481166921181",
+        "pids": [
+            "6921181",
+            "4346782",
+            "224717",
+            "368629",
+            "9150911"
+        ],
+        "pnames": [
+            "Quetzalcóätl",
+            "Nërzûl",
+            "Arkthurus",
+            "Deatheye",
+            "Xeish"
+        ],
+        "dung": "2286_376",
+        "lvl": 16,
+        "time": 1783,
+        "score": 130.87,
+        "timestamp": 1645248116,
+        "pclasses": [
+            "demonhunter",
+            "shaman",
+            "mage",
+            "hunter",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3822316452354239210986",
+        "pids": [
+            "9210986",
+            "4320981",
+            "6322726",
+            "9170690",
+            "9255938"
+        ],
+        "pnames": [
+            "Skyeprot",
+            "Cóne",
+            "Sokostealth",
+            "Buffalobilly",
+            "Sakusâ"
+        ],
+        "dung": "2293_382",
+        "lvl": 23,
+        "time": 2150,
+        "score": 165.29,
+        "timestamp": 1645235423,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "rogue",
+            "shaman",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            10,
+            8,
+            14
+        ]
     }
 ]
