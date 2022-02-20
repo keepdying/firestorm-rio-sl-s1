@@ -79326,5 +79326,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "3761816453350654295573",
+        "pids": [
+            "4295573",
+            "71962",
+            "3183258",
+            "5416461",
+            "7340585"
+        ],
+        "pnames": [
+            "Kelpollo",
+            "Vigor",
+            "Kenso",
+            "Tyranito",
+            "Purawonka"
+        ],
+        "dung": "2286_376",
+        "lvl": 18,
+        "time": 1763,
+        "score": 140.92,
+        "timestamp": 1645335065,
+        "pclasses": [
+            "druid",
+            "druid",
+            "hunter",
+            "shaman",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3781716453327714295573",
+        "pids": [
+            "4295573",
+            "71962",
+            "3183258",
+            "5416461",
+            "7340585"
+        ],
+        "pnames": [
+            "Kelpollo",
+            "Vigor",
+            "Kenso",
+            "Tyranito",
+            "Purawonka"
+        ],
+        "dung": "2287_378",
+        "lvl": 17,
+        "time": 1799,
+        "score": 135.16,
+        "timestamp": 1645332771,
+        "pclasses": [
+            "druid",
+            "druid",
+            "hunter",
+            "shaman",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            10,
+            8,
+            14
+        ]
     }
 ]
