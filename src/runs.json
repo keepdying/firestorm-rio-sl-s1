@@ -123230,5 +123230,145 @@
             6,
             13
         ]
+    },
+    {
+        "rid": "3801716457826059059006",
+        "pids": [
+            "9059006",
+            "8455435",
+            "4949037",
+            "6276834",
+            "6852146"
+        ],
+        "pnames": [
+            "Beefdaddy",
+            "Wëedeveryday",
+            "Мерлот",
+            "Agressiff",
+            "Kuriná"
+        ],
+        "dung": "2284_380",
+        "lvl": 17,
+        "time": 3188,
+        "score": 124.09,
+        "timestamp": 1645782605,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "warlock",
+            "rogue",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
+    },
+    {
+        "rid": "3791816457878549169745",
+        "pids": [
+            "9169745",
+            "450499",
+            "2034535",
+            "4949037",
+            "6852146"
+        ],
+        "pnames": [
+            "Nyagumîn",
+            "Pvpîsåjðkë",
+            "Magopotabio",
+            "Мерлот",
+            "Kuriná"
+        ],
+        "dung": "2289_379",
+        "lvl": 18,
+        "time": 2039,
+        "score": 140.53,
+        "timestamp": 1645787854,
+        "pclasses": [
+            "druid",
+            "priest",
+            "mage",
+            "warlock",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
+    },
+    {
+        "rid": "3751816457896999252740",
+        "pids": [
+            "9252740",
+            "9111379",
+            "7787396",
+            "8611884",
+            "9257829"
+        ],
+        "pnames": [
+            "Matroxdh",
+            "Кеск",
+            "Chikitocm",
+            "Doorvo",
+            "Fonda"
+        ],
+        "dung": "2290_375",
+        "lvl": 18,
+        "time": 1611,
+        "score": 140.53,
+        "timestamp": 1645789699,
+        "pclasses": [
+            "demonhunter",
+            "shaman",
+            "mage",
+            "demonhunter",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
+    },
+    {
+        "rid": "3751816457894208928916",
+        "pids": [
+            "8928916",
+            "5098472",
+            "5160151",
+            "7362160",
+            "8480480"
+        ],
+        "pnames": [
+            "Nêrfme",
+            "Ангелочек",
+            "Omnivøre",
+            "Хъюстан",
+            "Rãvèn"
+        ],
+        "dung": "2290_375",
+        "lvl": 18,
+        "time": 1776,
+        "score": 140.07,
+        "timestamp": 1645789420,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "rogue",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
     }
 ]
