@@ -123125,5 +123125,110 @@
             6,
             13
         ]
+    },
+    {
+        "rid": "3761616457742961212498",
+        "pids": [
+            "1212498",
+            "7335521",
+            "6274203",
+            "9044566",
+            "9163622"
+        ],
+        "pnames": [
+            "Ultrapro",
+            "Læy",
+            "梦之初现",
+            "Theysseemmeê",
+            "Shâdöw"
+        ],
+        "dung": "2286_376",
+        "lvl": 16,
+        "time": 1684,
+        "score": 131.1,
+        "timestamp": 1645774296,
+        "pclasses": [
+            "deathknight",
+            "priest",
+            "warrior",
+            "monk",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
+    },
+    {
+        "rid": "3761616457636914287247",
+        "pids": [
+            "4287247",
+            "7496524",
+            "3650274",
+            "6984619",
+            "7651567"
+        ],
+        "pnames": [
+            "Trollsinow",
+            "Strinz",
+            "Fraganbp",
+            "Samá",
+            "Campw"
+        ],
+        "dung": "2286_376",
+        "lvl": 16,
+        "time": 2113,
+        "score": 130.11,
+        "timestamp": 1645763691,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "rogue",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
+    },
+    {
+        "rid": "3751716457622904295573",
+        "pids": [
+            "4295573",
+            "71962",
+            "3183258",
+            "5416461",
+            "7340585"
+        ],
+        "pnames": [
+            "Kelpollo",
+            "Vigor",
+            "Kenso",
+            "Tyranito",
+            "Purawonka"
+        ],
+        "dung": "2290_375",
+        "lvl": 17,
+        "time": 1682,
+        "score": 135.33,
+        "timestamp": 1645762290,
+        "pclasses": [
+            "druid",
+            "druid",
+            "hunter",
+            "shaman",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
     }
 ]
