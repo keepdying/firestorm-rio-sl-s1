@@ -125047,5 +125047,180 @@
             6,
             13
         ]
+    },
+    {
+        "rid": "3801716458436563904994",
+        "pids": [
+            "3904994",
+            "2109481",
+            "8616282",
+            "9292638",
+            "2106730"
+        ],
+        "pnames": [
+            "Aestager",
+            "Entelequia",
+            "Icuminside",
+            "Àkirâ",
+            "Danicus"
+        ],
+        "dung": "2284_380",
+        "lvl": 17,
+        "time": 9023,
+        "score": 110.01,
+        "timestamp": 1645843656,
+        "pclasses": [
+            "deathknight",
+            "druid",
+            "paladin",
+            "monk",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
+    },
+    {
+        "rid": "3801616458408956104323",
+        "pids": [
+            "6104323",
+            "8265077",
+            "6331544",
+            "8686045",
+            "9163622"
+        ],
+        "pnames": [
+            "Avenyyer",
+            "Monktcher",
+            "Sarfdh",
+            "Mïtraburst",
+            "Shâdöw"
+        ],
+        "dung": "2284_380",
+        "lvl": 16,
+        "time": 1855,
+        "score": 131.23,
+        "timestamp": 1645840895,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "demonhunter",
+            "mage",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
+    },
+    {
+        "rid": "3791816458473117518626",
+        "pids": [
+            "7518626",
+            "7158509",
+            "6974007",
+            "7651567",
+            "8034879"
+        ],
+        "pnames": [
+            "Prinzes",
+            "Druiidboo",
+            "Cynho",
+            "Campw",
+            "Bramh"
+        ],
+        "dung": "2289_379",
+        "lvl": 18,
+        "time": 2051,
+        "score": 140.5,
+        "timestamp": 1645847311,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "deathknight",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
+    },
+    {
+        "rid": "3751716458402809381975",
+        "pids": [
+            "9381975",
+            "7325326",
+            "1171266",
+            "5113228",
+            "7728448"
+        ],
+        "pnames": [
+            "Yûwaîi",
+            "Mòòz",
+            "Sümîyâkâel",
+            "Armatrix",
+            "Metamørphine"
+        ],
+        "dung": "2290_375",
+        "lvl": 17,
+        "time": 1605,
+        "score": 135.54,
+        "timestamp": 1645840280,
+        "pclasses": [
+            "deathknight",
+            "paladin",
+            "mage",
+            "priest",
+            "demonhunter"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
+    },
+    {
+        "rid": "3821616458442537518626",
+        "pids": [
+            "7518626",
+            "7158509",
+            "1586978",
+            "6974007",
+            "8034879"
+        ],
+        "pnames": [
+            "Prinzes",
+            "Druiidboo",
+            "Mistríon",
+            "Cynho",
+            "Bramh"
+        ],
+        "dung": "2293_382",
+        "lvl": 16,
+        "time": 1801,
+        "score": 131.05,
+        "timestamp": 1645844253,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "warrior",
+            "deathknight",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
     }
 ]
