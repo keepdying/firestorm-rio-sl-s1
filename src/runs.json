@@ -125257,5 +125257,145 @@
             6,
             13
         ]
+    },
+    {
+        "rid": "3801916458720929336514",
+        "pids": [
+            "9336514",
+            "9358452",
+            "1746034",
+            "7280779",
+            "8198707"
+        ],
+        "pnames": [
+            "Flazefister",
+            "Charigerard",
+            "Lault",
+            "Sexymause",
+            "Zerdomk"
+        ],
+        "dung": "2284_380",
+        "lvl": 19,
+        "time": 1883,
+        "score": 146.17,
+        "timestamp": 1645872092,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "deathknight",
+            "warrior",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
+    },
+    {
+        "rid": "3801616458670318928916",
+        "pids": [
+            "8928916",
+            "9070417",
+            "5702193",
+            "6075783",
+            "8480480"
+        ],
+        "pnames": [
+            "Nêrfme",
+            "Kaserry",
+            "Phl",
+            "Bygobeer",
+            "Rãvèn"
+        ],
+        "dung": "2284_380",
+        "lvl": 16,
+        "time": 2092,
+        "score": 130.75,
+        "timestamp": 1645867031,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "warrior",
+            "druid",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
+    },
+    {
+        "rid": "3761816458694869336514",
+        "pids": [
+            "9336514",
+            "9358452",
+            "6203266",
+            "7280779",
+            "8198707"
+        ],
+        "pnames": [
+            "Flazefister",
+            "Charigerard",
+            "Prinçesamà",
+            "Sexymause",
+            "Zerdomk"
+        ],
+        "dung": "2286_376",
+        "lvl": 18,
+        "time": 1291,
+        "score": 142.01,
+        "timestamp": 1645869486,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "mage",
+            "warrior",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
+    },
+    {
+        "rid": "3771716458762148296394",
+        "pids": [
+            "8296394",
+            "9255482",
+            "7280779",
+            "8685005",
+            "9252740"
+        ],
+        "pnames": [
+            "Possitive",
+            "Beefwings",
+            "Sexymause",
+            "Gingibro",
+            "Matroxdh"
+        ],
+        "dung": "2291_377",
+        "lvl": 17,
+        "time": 2698,
+        "score": 129.1,
+        "timestamp": 1645876214,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "warrior",
+            "druid",
+            "demonhunter"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
     }
 ]
