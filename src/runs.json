@@ -125222,5 +125222,40 @@
             6,
             13
         ]
+    },
+    {
+        "rid": "3761616458548031450392",
+        "pids": [
+            "1450392",
+            "6245880",
+            "2704416",
+            "7684427",
+            "8078592"
+        ],
+        "pnames": [
+            "Sttyxx",
+            "Pomax",
+            "Kdigo",
+            "Beckmann",
+            "Kyahboi"
+        ],
+        "dung": "2286_376",
+        "lvl": 16,
+        "time": 1617,
+        "score": 131.26,
+        "timestamp": 1645854803,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "warrior",
+            "hunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
     }
 ]
