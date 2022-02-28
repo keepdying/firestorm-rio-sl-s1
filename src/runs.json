@@ -129632,5 +129632,110 @@
             6,
             13
         ]
+    },
+    {
+        "rid": "3792016460121725879800",
+        "pids": [
+            "5879800",
+            "9177443",
+            "1586978",
+            "3418501",
+            "7225230"
+        ],
+        "pnames": [
+            "Digigrip",
+            "Amádeuz",
+            "Mistríon",
+            "Maykelhero",
+            "Wûg"
+        ],
+        "dung": "2289_379",
+        "lvl": 20,
+        "time": 2209,
+        "score": 150.16,
+        "timestamp": 1646012172,
+        "pclasses": [
+            "deathknight",
+            "shaman",
+            "warrior",
+            "rogue",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
+    },
+    {
+        "rid": "3771916460115946263424",
+        "pids": [
+            "6263424",
+            "9215015",
+            "1803270",
+            "2034535",
+            "8685005"
+        ],
+        "pnames": [
+            "Koheldh",
+            "Éastwick",
+            "Ercouxer",
+            "Magopotabio",
+            "Gingibro"
+        ],
+        "dung": "2291_377",
+        "lvl": 19,
+        "time": 2311,
+        "score": 145.52,
+        "timestamp": 1646011594,
+        "pclasses": [
+            "demonhunter",
+            "shaman",
+            "warrior",
+            "mage",
+            "druid"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
+    },
+    {
+        "rid": "3821916460092785879800",
+        "pids": [
+            "5879800",
+            "9177443",
+            "1586978",
+            "3418501",
+            "7225230"
+        ],
+        "pnames": [
+            "Digigrip",
+            "Amádeuz",
+            "Mistríon",
+            "Maykelhero",
+            "Wûg"
+        ],
+        "dung": "2293_382",
+        "lvl": 19,
+        "time": 2194,
+        "score": 145.19,
+        "timestamp": 1646009278,
+        "pclasses": [
+            "deathknight",
+            "shaman",
+            "warrior",
+            "rogue",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            9,
+            6,
+            13
+        ]
     }
 ]
