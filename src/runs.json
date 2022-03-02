@@ -162032,5 +162032,390 @@
             123,
             3
         ]
+    },
+    {
+        "rid": "3761716461938957518626",
+        "pids": [
+            "7518626",
+            "7158509",
+            "1729154",
+            "5613256",
+            "8034879"
+        ],
+        "pnames": [
+            "Prinzes",
+            "Druiidboo",
+            "Pressx",
+            "Døthraki",
+            "Bramh"
+        ],
+        "dung": "2286_376",
+        "lvl": 17,
+        "time": 2185,
+        "score": 129.78,
+        "timestamp": 1646193895,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "warrior",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3761716461973016893751",
+        "pids": [
+            "6893751",
+            "513044",
+            "479000",
+            "2556850",
+            "8119515"
+        ],
+        "pnames": [
+            "Risperidona",
+            "Мрз",
+            "Misiifus",
+            "Retribull",
+            "Profitbeast"
+        ],
+        "dung": "2286_376",
+        "lvl": 17,
+        "time": 2376,
+        "score": 128.01,
+        "timestamp": 1646197301,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "hunter",
+            "paladin",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3761616462048818844393",
+        "pids": [
+            "8844393",
+            "3411291",
+            "5620479",
+            "9120396",
+            "9366768"
+        ],
+        "pnames": [
+            "Hetdudu",
+            "Ðarkstronger",
+            "Trytøstopme",
+            "Anootherbr",
+            "Celldweller"
+        ],
+        "dung": "2286_376",
+        "lvl": 16,
+        "time": 1708,
+        "score": 131.05,
+        "timestamp": 1646204881,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "monk",
+            "mage",
+            "deathknight"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3781616461964846531560",
+        "pids": [
+            "6531560",
+            "2995631",
+            "1481923",
+            "3581074",
+            "6409714"
+        ],
+        "pnames": [
+            "Yourfangirl",
+            "Tásjön",
+            "Diablaso",
+            "Drackai",
+            "Baborak"
+        ],
+        "dung": "2287_378",
+        "lvl": 16,
+        "time": 1736,
+        "score": 130.33,
+        "timestamp": 1646196484,
+        "pclasses": [
+            "demonhunter",
+            "monk",
+            "deathknight",
+            "deathknight",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3781616462028298844393",
+        "pids": [
+            "8844393",
+            "3411291",
+            "5620479",
+            "9120396",
+            "9366768"
+        ],
+        "pnames": [
+            "Hetdudu",
+            "Ðarkstronger",
+            "Trytøstopme",
+            "Anootherbr",
+            "Celldweller"
+        ],
+        "dung": "2287_378",
+        "lvl": 16,
+        "time": 1866,
+        "score": 124.95,
+        "timestamp": 1646202829,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "monk",
+            "mage",
+            "deathknight"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3781616462044497969851",
+        "pids": [
+            "7969851",
+            "9074468",
+            "8084459",
+            "8093016",
+            "9246352"
+        ],
+        "pnames": [
+            "Xmoonxxcatx",
+            "Понзи",
+            "Ghétto",
+            "Cruxiumxqt",
+            "Маргинальный"
+        ],
+        "dung": "2287_378",
+        "lvl": 16,
+        "time": 2380,
+        "score": 119.42,
+        "timestamp": 1646204449,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "deathknight",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3791816462065166626457",
+        "pids": [
+            "6626457",
+            "4081514",
+            "6274203",
+            "9224613",
+            "9252789"
+        ],
+        "pnames": [
+            "爆炸猫",
+            "你老婆真棒",
+            "梦之初现",
+            "冰法",
+            "全国探花"
+        ],
+        "dung": "2289_379",
+        "lvl": 18,
+        "time": 3035,
+        "score": 128.39,
+        "timestamp": 1646206516,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "warrior",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3751616461972987518626",
+        "pids": [
+            "7518626",
+            "7158509",
+            "363472",
+            "7325749",
+            "8034879"
+        ],
+        "pnames": [
+            "Prinzes",
+            "Druiidboo",
+            "Eonnar",
+            "Dracofire",
+            "Bramh"
+        ],
+        "dung": "2290_375",
+        "lvl": 16,
+        "time": 1594,
+        "score": 130.57,
+        "timestamp": 1646197298,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "mage",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "377171646198501850975",
+        "pids": [
+            "850975",
+            "8181533",
+            "134374",
+            "1754251",
+            "3657027"
+        ],
+        "pnames": [
+            "Muajawar",
+            "Bartragød",
+            "Túlkäs",
+            "Dsacë",
+            "Camusl"
+        ],
+        "dung": "2291_377",
+        "lvl": 17,
+        "time": 2423,
+        "score": 135.3,
+        "timestamp": 1646198501,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warrior",
+            "deathknight",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3771616461948999061431",
+        "pids": [
+            "9061431",
+            "5314884",
+            "8040895",
+            "9120396",
+            "9292765"
+        ],
+        "pnames": [
+            "Mtadorx",
+            "Gruldd",
+            "Nicoyempe",
+            "Anootherbr",
+            "Rüsky"
+        ],
+        "dung": "2291_377",
+        "lvl": 16,
+        "time": 2411,
+        "score": 130.33,
+        "timestamp": 1646194899,
+        "pclasses": [
+            "demonhunter",
+            "shaman",
+            "warrior",
+            "mage",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3821616462023146626457",
+        "pids": [
+            "6626457",
+            "6540438",
+            "8016484",
+            "9224613",
+            "9252789"
+        ],
+        "pnames": [
+            "爆炸猫",
+            "圣之耀光",
+            "Gliams",
+            "冰法",
+            "全国探花"
+        ],
+        "dung": "2293_382",
+        "lvl": 16,
+        "time": 1795,
+        "score": 131.06,
+        "timestamp": 1646202314,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "rogue",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
     }
 ]
