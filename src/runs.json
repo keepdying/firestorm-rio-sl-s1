@@ -170041,5 +170041,75 @@
             123,
             3
         ]
+    },
+    {
+        "rid": "377191646374587850975",
+        "pids": [
+            "850975",
+            "5314884",
+            "3657027",
+            "7684427",
+            "9246352"
+        ],
+        "pnames": [
+            "Muajawar",
+            "Gruldd",
+            "Camusl",
+            "Beckmann",
+            "Маргинальный"
+        ],
+        "dung": "2291_377",
+        "lvl": 19,
+        "time": 2980,
+        "score": 136.91,
+        "timestamp": 1646374587,
+        "pclasses": [
+            "warrior",
+            "shaman",
+            "mage",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3821716463680747927419",
+        "pids": [
+            "7927419",
+            "4287247",
+            "5378425",
+            "7340585",
+            "8308812"
+        ],
+        "pnames": [
+            "Laquelimpia",
+            "Trollsinow",
+            "Nystinamun",
+            "Purawonka",
+            "Fragan"
+        ],
+        "dung": "2293_382",
+        "lvl": 17,
+        "time": 2090,
+        "score": 135.42,
+        "timestamp": 1646368074,
+        "pclasses": [
+            "druid",
+            "druid",
+            "priest",
+            "monk",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
     }
 ]
