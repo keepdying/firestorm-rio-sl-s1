@@ -172106,5 +172106,180 @@
             123,
             3
         ]
+    },
+    {
+        "rid": "3801816464430026360219",
+        "pids": [
+            "6360219",
+            "2163066",
+            "2556850",
+            "8119515",
+            "8553870"
+        ],
+        "pnames": [
+            "Fruupii",
+            "Qmais",
+            "Retribull",
+            "Profitbeast",
+            "Bramanero"
+        ],
+        "dung": "2284_380",
+        "lvl": 18,
+        "time": 2288,
+        "score": 140.35,
+        "timestamp": 1646443002,
+        "pclasses": [
+            "druid",
+            "druid",
+            "paladin",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3761816464434202794747",
+        "pids": [
+            "2794747",
+            "5796445",
+            "62885",
+            "5156891",
+            "8698407"
+        ],
+        "pnames": [
+            "Enoteerf",
+            "Rerollina",
+            "Shakexqt",
+            "Calithias",
+            "Sherypot"
+        ],
+        "dung": "2286_376",
+        "lvl": 18,
+        "time": 1718,
+        "score": 141.02,
+        "timestamp": 1646443420,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "warrior",
+            "mage",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3752016464458912794747",
+        "pids": [
+            "2794747",
+            "5796445",
+            "62885",
+            "5156891",
+            "8698407"
+        ],
+        "pnames": [
+            "Enoteerf",
+            "Rerollina",
+            "Shakexqt",
+            "Calithias",
+            "Sherypot"
+        ],
+        "dung": "2290_375",
+        "lvl": 20,
+        "time": 2067,
+        "score": 142.04,
+        "timestamp": 1646445891,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "warrior",
+            "mage",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3821916464418808603214",
+        "pids": [
+            "8603214",
+            "6898695",
+            "60627",
+            "4308074",
+            "8904970"
+        ],
+        "pnames": [
+            "Raknafurry",
+            "Braderis",
+            "Dottingmommy",
+            "Jäcksaw",
+            "Svesmago"
+        ],
+        "dung": "2293_382",
+        "lvl": 19,
+        "time": 3184,
+        "score": 132.08,
+        "timestamp": 1646441880,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "warlock",
+            "deathknight",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3821816464532239351401",
+        "pids": [
+            "9351401",
+            "8616282",
+            "923981",
+            "6944675",
+            "6949932"
+        ],
+        "pnames": [
+            "Nazzira",
+            "Icuminside",
+            "Ututuy",
+            "Cazaroto",
+            "Vilmapriest"
+        ],
+        "dung": "2293_382",
+        "lvl": 18,
+        "time": 2110,
+        "score": 140.37,
+        "timestamp": 1646453223,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "warrior",
+            "hunter",
+            "priest"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
     }
 ]
