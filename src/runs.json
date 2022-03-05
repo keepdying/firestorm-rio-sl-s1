@@ -172281,5 +172281,145 @@
             123,
             3
         ]
+    },
+    {
+        "rid": "3801816464561328673412",
+        "pids": [
+            "8673412",
+            "2163066",
+            "5076323",
+            "8934793",
+            "9110345"
+        ],
+        "pnames": [
+            "Jerjev",
+            "Qmais",
+            "Níone",
+            "Awfulpláyer",
+            "Titanrojo"
+        ],
+        "dung": "2284_380",
+        "lvl": 18,
+        "time": 3277,
+        "score": 128.37,
+        "timestamp": 1646456132,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "monk",
+            "paladin",
+            "warrior"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3801716464543177388183",
+        "pids": [
+            "7388183",
+            "7325326",
+            "479000",
+            "3913577",
+            "6459575"
+        ],
+        "pnames": [
+            "Patín",
+            "Mòòz",
+            "Misiifus",
+            "Sraexaníme",
+            "Robilin"
+        ],
+        "dung": "2284_380",
+        "lvl": 17,
+        "time": 2288,
+        "score": 135.35,
+        "timestamp": 1646454317,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "deathknight",
+            "demonhunter"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3771816464677456626457",
+        "pids": [
+            "6626457",
+            "9282515",
+            "5264006",
+            "9224613",
+            "9227054"
+        ],
+        "pnames": [
+            "爆炸猫",
+            "默默",
+            "Repelent",
+            "冰法",
+            "秋秋爱吃鱼"
+        ],
+        "dung": "2291_377",
+        "lvl": 18,
+        "time": 3037,
+        "score": 131.47,
+        "timestamp": 1646467745,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "monk",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3771716464662318353806",
+        "pids": [
+            "8353806",
+            "5168566",
+            "5416461",
+            "7651567",
+            "8308812"
+        ],
+        "pnames": [
+            "Nistynamun",
+            "Towsinow",
+            "Tyranito",
+            "Campw",
+            "Fragan"
+        ],
+        "dung": "2291_377",
+        "lvl": 17,
+        "time": 2175,
+        "score": 135.78,
+        "timestamp": 1646466231,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "shaman",
+            "warrior",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
     }
 ]
