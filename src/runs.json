@@ -172421,5 +172421,145 @@
             123,
             3
         ]
+    },
+    {
+        "rid": "3761816464817281775488",
+        "pids": [
+            "1775488",
+            "8054870",
+            "1437206",
+            "7956459",
+            "9273662"
+        ],
+        "pnames": [
+            "Cøng",
+            "Qlfnda",
+            "Mileta",
+            "Klöuz",
+            "Zigxieww"
+        ],
+        "dung": "2286_376",
+        "lvl": 18,
+        "time": 2088,
+        "score": 140.17,
+        "timestamp": 1646481728,
+        "pclasses": [
+            "warrior",
+            "shaman",
+            "warlock",
+            "deathknight",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3781716464707918353806",
+        "pids": [
+            "8353806",
+            "5168566",
+            "5416461",
+            "7651567",
+            "8308812"
+        ],
+        "pnames": [
+            "Nistynamun",
+            "Towsinow",
+            "Tyranito",
+            "Campw",
+            "Fragan"
+        ],
+        "dung": "2287_378",
+        "lvl": 17,
+        "time": 1341,
+        "score": 136.4,
+        "timestamp": 1646470791,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "shaman",
+            "warrior",
+            "mage"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3751816464751748959259",
+        "pids": [
+            "8959259",
+            "2109995",
+            "4642680",
+            "4670734",
+            "8198707"
+        ],
+        "pnames": [
+            "Sthephania",
+            "Кайру",
+            "Gønz",
+            "Stuffyy",
+            "Zerdomk"
+        ],
+        "dung": "2290_375",
+        "lvl": 18,
+        "time": 1556,
+        "score": 140.68,
+        "timestamp": 1646475174,
+        "pclasses": [
+            "warrior",
+            "shaman",
+            "warrior",
+            "deathknight",
+            "monk"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
+    },
+    {
+        "rid": "3821816464815124367156",
+        "pids": [
+            "4367156",
+            "9233701",
+            "815880",
+            "4670734",
+            "8482189"
+        ],
+        "pnames": [
+            "Nyagumin",
+            "Trencgender",
+            "Sverenaqt",
+            "Stuffyy",
+            "Márkis"
+        ],
+        "dung": "2293_382",
+        "lvl": 18,
+        "time": 2824,
+        "score": 130.24,
+        "timestamp": 1646481512,
+        "pclasses": [
+            "warrior",
+            "shaman",
+            "mage",
+            "deathknight",
+            "warrior"
+        ],
+        "affixes": [
+            121,
+            10,
+            123,
+            3
+        ]
     }
 ]
