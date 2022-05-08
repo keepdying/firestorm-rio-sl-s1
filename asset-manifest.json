@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/firestorm-rio/static/css/main.c246a1c9.chunk.css",
-    "main.js": "/firestorm-rio/static/js/main.f69bddc0.chunk.js",
-    "main.js.map": "/firestorm-rio/static/js/main.f69bddc0.chunk.js.map",
+    "main.js": "/firestorm-rio/static/js/main.2a952332.chunk.js",
+    "main.js.map": "/firestorm-rio/static/js/main.2a952332.chunk.js.map",
     "runtime-main.js": "/firestorm-rio/static/js/runtime-main.eec6af3f.js",
     "runtime-main.js.map": "/firestorm-rio/static/js/runtime-main.eec6af3f.js.map",
     "static/js/2.770e641e.chunk.js": "/firestorm-rio/static/js/2.770e641e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.eec6af3f.js",
     "static/js/2.770e641e.chunk.js",
     "static/css/main.c246a1c9.chunk.css",
-    "static/js/main.f69bddc0.chunk.js"
+    "static/js/main.2a952332.chunk.js"
   ]
 }
