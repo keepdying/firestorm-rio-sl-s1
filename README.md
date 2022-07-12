@@ -1,7 +1,7 @@
 # Firestorm RIO
 
 A raider.io like M+ scoring system for Firestorm Servers.
-https://keepdying.github.io/firestorm-rio/
+https://keepdying.github.io/firestorm-rio-sl-s1/
 
 ## Frequently Asked Questions
 
